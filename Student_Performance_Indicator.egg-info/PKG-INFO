@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: Student-Performance-Indicator
+Version: 0.0.1
+Author: mayank bijlwan
+Author-email: mayankbijlwan@gmail.com
+Requires-Dist: Pandas
+Requires-Dist: Numpy
+Requires-Dist: Seaborn
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
